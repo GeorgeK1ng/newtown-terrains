@@ -100,7 +100,7 @@
 	"fieryLandShrub": {
 		"biome": {
 			"terrain": "fieryLand",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"fieryLandSHR1",
@@ -146,15 +146,6 @@
 			"fieryLandTre10",
 			"fieryLandTre11",
 			"fieryLandTre12"
-		]
-	},
-	"fieryLandSigns": {
-		"biome": {
-			"terrain": "fieryLand",
-			"objectType": "structure"
-		},
-		"templates": [
-			"fieryLand_sign"
 		]
 	},
 	"fieryLandTreeofknowledge": {

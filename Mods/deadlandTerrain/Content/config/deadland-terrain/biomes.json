@@ -259,19 +259,6 @@
 			"adcfra0"
 		]
 	},
-	"deadlandSign": {
-		"biome": {
-			"terrain": "deadland",
-			"objectType": "structure"
-		},
-		"templates": [
-			"FALF0178",
-			"FALF0181",
-			"FALF0182",
-			"FOCF0005",
-			"FOCF0006"
-		]
-	},
 	"deadlandWateringhole": {
 		"biome": {
 			"terrain": "deadland",

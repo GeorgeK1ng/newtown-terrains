@@ -166,17 +166,6 @@
 			"FALF0248"
 		]
 	},
-	"spoiledLandSign": {
-		"biome": {
-			"terrain": "spoiledLand",
-			"objectType": "structure"
-		},
-		"templates": [
-			"slFALF0174",
-			"slFALF0175",
-			"slFALF0176"
-		]
-	},
 	"spoiledLandTreeofknowledge": {
 		"biome": {
 			"terrain": "spoiledLand",

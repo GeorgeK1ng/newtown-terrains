@@ -2,7 +2,7 @@
 	"heatherThicketFlowers": {
 		"biome": {
 			"terrain": "heatherThicket",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"heaThifLo00",
@@ -81,7 +81,7 @@
 	"heatherThicketMushrooms": {
 		"biome": {
 			"terrain": "heatherThicket",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"heaThiMus01",
@@ -153,7 +153,7 @@
 	"heatherThicketShrubs": {
 		"biome": {
 			"terrain": "heatherThicket",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"heaThiShr00",
@@ -167,7 +167,7 @@
 	"heatherThicketStump": {
 		"biome": {
 			"terrain": "heatherThicket",
-			"objectType": "rock"
+			"objectType": "plant"
 		},
 		"templates": [
 			"heaThiStu01",

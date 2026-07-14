@@ -33,7 +33,7 @@
 	"plateauFlowers": {
 		"biome": {
 			"terrain": "plateau",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"plateau_praFlo1",
@@ -104,7 +104,7 @@
 	"plateauShrub": {
 		"biome": {
 			"terrain": "plateau",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"plateau_praSHR1",
@@ -137,7 +137,7 @@
 	"plateauStump": {
 		"biome": {
 			"terrain": "plateau",
-			"objectType": "rock"
+			"objectType": "plant"
 		},
 		"templates": [
 			"plateau_stumpo4",
@@ -166,15 +166,6 @@
 			"plateauTre10",
 			"plateauTre11",
 			"plateauTre12"
-		]
-	},
-	"plateauSigns": {
-		"biome": {
-			"terrain": "plateau",
-			"objectType": "structure"
-		},
-		"templates": [
-			"plateau_avxsnhl"
 		]
 	},
 	"plateauHole": {

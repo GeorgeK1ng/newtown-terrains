@@ -31,7 +31,7 @@
 	"icelandsFlowers": {
 		"biome": {
 			"terrain": "icelands",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"icelfl01",
@@ -108,36 +108,6 @@
 			"ICEROCK17",
 			"ICEROCK18",
 			"ICEROCK19"
-		]
-	},
-	"icelandsOthers": {
-		"biome": {
-			"terrain": "icelands",
-			"objectType": "structure"
-		},
-		"templates": [
-			"icelandsObelisk",
-			"iceCaveGate",
-			"iceCaveIdol",
-			"iceDenTheves",
-			"iceLearning",
-			"iceLibrary",
-			"iceUniversity",
-			"IceTreeKnowledge",
-			"iceTOMB",
-			"iceTvrn",
-			"iceWitchhut",
-			"iceDragonUtopia",
-			"iceAltar",
-			"iceSchoolOfWar",
-			"iceMercenaryCamp",
-			"iceMarlettoTower",
-			"iceStarAxis",
-			"iceRedwoodObservatory",
-			"iceSchoolOfMagic",
-			"iceGardenOfRevelation",
-			"iceArena",
-			"seerHutIce"
 		]
 	}
 }

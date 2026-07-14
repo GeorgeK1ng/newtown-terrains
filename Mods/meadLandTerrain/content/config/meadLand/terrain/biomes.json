@@ -14,7 +14,7 @@
 	"meadLandFlowers": {
 		"biome": {
 			"terrain": "meadLand",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"meadLand_AVLf01g0",
@@ -101,7 +101,7 @@
 	"meadLandMushrooms": {
 		"biome": {
 			"terrain": "meadLand",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"meadLandMushrooms07",
@@ -130,16 +130,6 @@
 			"meadLandMoun18"
 		]
 	},
-	"meadLandStatue": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "structure"
-		},
-		"templates": [
-			"statueMeadLand01",
-			"statueMeadLand02"
-		]
-	},
 	"meadLandStone": {
 		"biome": {
 			"terrain": "meadLand",
@@ -156,7 +146,7 @@
 	"meadLandShrub": {
 		"biome": {
 			"terrain": "meadLand",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"meadLand_praSHR1",
@@ -174,7 +164,7 @@
 	"meadLandStump": {
 		"biome": {
 			"terrain": "meadLand",
-			"objectType": "rock"
+			"objectType": "plant"
 		},
 		"templates": [
 			"meadLand_stumpo4",
@@ -211,15 +201,6 @@
 			"meadLandTre18",
 			"meadLandTre19",
 			"meadLandTre20"
-		]
-	},
-	"meadLandSigns": {
-		"biome": {
-			"terrain": "meadLand",
-			"objectType": "structure"
-		},
-		"templates": [
-			"meadLand_sign"
 		]
 	}
 }

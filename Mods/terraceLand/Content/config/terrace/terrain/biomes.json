@@ -33,7 +33,7 @@
 	"terraceFlowers": {
 		"biome": {
 			"terrain": "terrace",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"terraceflowers00",
@@ -160,7 +160,7 @@
 	"terraceShrub": {
 		"biome": {
 			"terrain": "terrace",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"terraceShrub01",
@@ -178,7 +178,7 @@
 	"terraceStump": {
 		"biome": {
 			"terrain": "terrace",
-			"objectType": "rock"
+			"objectType": "plant"
 		},
 		"templates": [
 			"terrace_stumpo4",
@@ -203,15 +203,6 @@
 			"terraceTree06",
 			"terraceTree07",
 			"terraceTree08"
-		]
-	},
-	"terraceSigns": {
-		"biome": {
-			"terrain": "terrace",
-			"objectType": "structure"
-		},
-		"templates": [
-			"tavxsnhl"
 		]
 	}
 }

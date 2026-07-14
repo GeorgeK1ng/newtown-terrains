@@ -37,7 +37,7 @@
 	"fieldGloryFlowers": {
 		"biome": {
 			"terrain": "fieldGlory",
-			"objectType": "tree"
+			"objectType": "plant"
 		},
 		"templates": [
 			"fgflower01",
@@ -81,15 +81,6 @@
 			"gloryMount06"
 		]
 	},
-	"fieldGloryGlorycinnabar": {
-		"biome": {
-			"terrain": "fieldGlory",
-			"objectType": "structure"
-		},
-		"templates": [
-			"AVAbrrlw"
-		]
-	},
 	"fieldGloryRocks": {
 		"biome": {
 			"terrain": "fieldGlory",
@@ -99,24 +90,6 @@
 			"FG001rock",
 			"FG002rock",
 			"FG003rock"
-		]
-	},
-	"fieldGloryGlorygrave": {
-		"biome": {
-			"terrain": "fieldGlory",
-			"objectType": "structure"
-		},
-		"templates": [
-			"avxgravw"
-		]
-	},
-	"fieldGloryOthers": {
-		"biome": {
-			"terrain": "fieldGlory",
-			"objectType": "structure"
-		},
-		"templates": [
-			"gloryObelisk"
 		]
 	}
 }
