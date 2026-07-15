@@ -165,14 +165,5 @@
 			"FDTD0028",
 			"FDTD0029"
 		]
-	},
-	"stardustStarflake" : {
-		"biome" : {
-			"terrain" : "stardust",
-			"objectType" : "lake"
-		},
-		"templates" : [
-			"AVAbrrlw"
-		]
 	}
 }
