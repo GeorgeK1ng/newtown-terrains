@@ -1,7 +1,7 @@
 {
 	"core:stump" : {
 		"types" : {
-			"stump" : {
+			"teStump" : {
 				"name" : "Stump",
 				"templates" : {
 					"teStump4" : {
