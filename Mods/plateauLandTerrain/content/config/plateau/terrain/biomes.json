@@ -57,9 +57,9 @@
 			"objectType" : "lake"
 		},
 		"templates" : [
-			"plateau_praLak01",
-			"plateau_praLak02",
-			"plateau_praLak03"
+			"plLake1",
+			"plLake2",
+			"plLake3"
 		]
 	},
 	"plateauPinetrees" : {

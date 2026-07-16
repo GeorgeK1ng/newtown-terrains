@@ -100,5 +100,14 @@
 			"ICEROCK18",
 			"ICEROCK19"
 		]
+	},
+	"icelandsMericesolid" : {
+		"biome" : {
+			"terrain" : "icelands",
+			"objectType" : "rock"
+		},
+		"templates" : [
+			"icAVAbrrlw"
+		]
 	}
 }
