@@ -50,7 +50,7 @@
 				"visitMode" : "once",
 				"selectMode" : "selectRandom",
 				"templates" : {
-					"icAVAbrrlw" : {
+					"AVAicBrrlw" : {
 						"animation" : "ice object/FTRME003",
 						"visitableFrom" : [
 							"+++",
